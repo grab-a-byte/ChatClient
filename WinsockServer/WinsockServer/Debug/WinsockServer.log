@@ -1,0 +1,4 @@
+﻿  Server.cpp
+f:\gsd year 3\console programming\networking\winsockserver\winsockserver\server.cpp(241): warning C4018: '<': signed/unsigned mismatch
+  WinsockServer.vcxproj -> F:\GsD Year 3\Console Programming\Networking\WinsockServer\Debug\WinsockServer.exe
+  WinsockServer.vcxproj -> F:\GsD Year 3\Console Programming\Networking\WinsockServer\Debug\WinsockServer.pdb (Partial PDB)
